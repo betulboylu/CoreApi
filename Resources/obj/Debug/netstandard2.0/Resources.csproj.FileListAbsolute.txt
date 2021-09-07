@@ -1,0 +1,12 @@
+C:\Users\bboylu\source\repos\Resources\bin\Debug\netstandard2.0\Resources.deps.json
+C:\Users\bboylu\source\repos\Resources\bin\Debug\netstandard2.0\Resources.dll
+C:\Users\bboylu\source\repos\Resources\bin\Debug\netstandard2.0\Resources.pdb
+C:\Users\bboylu\source\repos\Resources\obj\Debug\netstandard2.0\Resources.ViewStrings.resources
+C:\Users\bboylu\source\repos\Resources\obj\Debug\netstandard2.0\Resources.csproj.GenerateResource.cache
+C:\Users\bboylu\source\repos\Resources\obj\Debug\netstandard2.0\Resources.AssemblyInfoInputs.cache
+C:\Users\bboylu\source\repos\Resources\obj\Debug\netstandard2.0\Resources.AssemblyInfo.cs
+C:\Users\bboylu\source\repos\Resources\obj\Debug\netstandard2.0\Resources.dll
+C:\Users\bboylu\source\repos\Resources\obj\Debug\netstandard2.0\Resources.pdb
+C:\Users\bboylu\source\repos\Resources\obj\Debug\netstandard2.0\Resources.csproj.AssemblyReference.cache
+C:\Users\bboylu\source\repos\Resources\obj\Debug\netstandard2.0\Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bboylu\source\repos\Resources\obj\Debug\netstandard2.0\Resources.csproj.CoreCompileInputs.cache
